@@ -1,0 +1,73 @@
+{
+  "hash": "bfb8eef0",
+  "configHash": "c9930316",
+  "lockfileHash": "9e43e189",
+  "browserHash": "eb7ba290",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "b2e550f7",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "90fa7609",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "5748233f",
+      "needsInterop": false
+    },
+    "@angular/material/icon": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/icon.mjs",
+      "file": "@angular_material_icon.js",
+      "fileHash": "1b8e7cc4",
+      "needsInterop": false
+    },
+    "@angular/material/snack-bar": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/snack-bar.mjs",
+      "file": "@angular_material_snack-bar.js",
+      "fileHash": "835034bc",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "8e2751f8",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "6c33efae",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "ce5c4310",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BT4AQLDK": {
+      "file": "chunk-BT4AQLDK.js"
+    },
+    "chunk-RZXGBH25": {
+      "file": "chunk-RZXGBH25.js"
+    },
+    "chunk-TAJ6UP5Q": {
+      "file": "chunk-TAJ6UP5Q.js"
+    },
+    "chunk-2CAXEB4H": {
+      "file": "chunk-2CAXEB4H.js"
+    },
+    "chunk-HBA5ZFLC": {
+      "file": "chunk-HBA5ZFLC.js"
+    }
+  }
+}
